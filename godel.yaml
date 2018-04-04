@@ -1,0 +1,10 @@
+---
+directory:
+  library: library
+  content: content
+  output: docs
+  static:
+    - static
+environment:
+  sitename: Sebastian And Crystals Wedding
+  url: http://ricecake.github.io/weddingSite

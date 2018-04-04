@@ -1,3 +1,10 @@
 body {
 	background: linear-gradient(to left, #00cb00, #0080AF);
 }
+
+.banner-image {
+	width: 50vw;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

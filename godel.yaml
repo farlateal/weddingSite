@@ -7,4 +7,4 @@ directory:
     - static
 environment:
   sitename: Sebastian And Crystals Wedding
-  baseurl: http://ricecake.github.io/weddingSite
+  baseurl: https://ricecake.github.io/weddingSite
